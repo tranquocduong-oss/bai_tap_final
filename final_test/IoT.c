@@ -65,4 +65,5 @@ int main(void)
     printf("Motor : %d\n", x.motor);
 
     return 0;
+
 }

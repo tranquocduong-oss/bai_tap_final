@@ -56,7 +56,7 @@ smartHome_t pair_data(const char* data)
     return state;
 }
 
-int main(void)
+void main()
 {
     smartHome_t x = pair_data(data);
 
